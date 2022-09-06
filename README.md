@@ -1,8 +1,12 @@
 ### __Hallo__  👋 ,  ich bin ein Fullstack Junior Webentwickler,  <br>
 der gerade seiner Weiterbildung bei DCI (Digital Career Institut)  abgeschlossen hat. 
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/-antonio-champi-h-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-champi-h/)](https://www.linkedin.com/in/antonio-champi-h/)
+
 <hr>
 
-### ⚡ ___was ich kann___  ___Technologies___:
+### ⚡ ___was ich kann___ :
  
 <!-- <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
