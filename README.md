@@ -2,7 +2,7 @@
 der gerade seiner Weiterbildung bei DCI (Digital Career Institut)  abgeschlossen hat. 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-antonio-champi-h-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-champi-h/)](https://www.linkedin.com/in/antonio-champi-h/)
+[![Linkedin Badge](https://img.shields.io/badge/-Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-champi-h/)](https://www.linkedin.com/in/antonio-champi-h/)
 
 <hr>
 
