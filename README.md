@@ -1,5 +1,5 @@
 ### __Hallo__  👋 ,  ich bin ein Fullstack Junior Webentwickler und  <br>
-arbeite ich gerade  bei DCI (Digital Career Institut). 
+arbeite gerade  bei DCI (Digital Career Institut). 
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Antonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/antonio-champi-h/)](https://www.linkedin.com/in/antonio-champi-h/)
