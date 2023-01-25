@@ -34,10 +34,9 @@ arbeite gerade  bei DCI (Digital Career Institut).
 ### __meine Referenz:__ 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=a-champi&theme=dark&show_icons=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-champi&theme=dark&show_icons=true)
-
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=a-champi&theme=dark&show_icons=true)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=a-champi.a-champi)
  <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=a-champi)
