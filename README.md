@@ -31,18 +31,18 @@ arbeite gerade  bei DCI (Digital Career Institut).
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
 -->
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
-![Nodejs](https://img.shields.io/badge/Node.Js-Advanced-yellow)
-![React](https://img.shields.io/badge/React-Advanced-yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-blue)
+![Nodejs](https://img.shields.io/badge/Node.Js-Advanced-blue)
+![React](https://img.shields.io/badge/React-Advanced-blue)
 ![Python](https://img.shields.io/badge/Python-Beginner-8A2BE2)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-yellow)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-blue)
 ![CSS3](https://img.shields.io/badge/CCS3-Advanced-yellow)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-yellow)
-![Tailwinds](https://img.shields.io/badge/Tailwinds-Advanced-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-blue)
+![Tailwinds](https://img.shields.io/badge/Tailwinds-Advanced-blue)
 ![Sass/Scss](https://img.shields.io/badge/Sass%2Fscss-Intermedia-8A2BE2)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermedia-8A2BE2)
-![Git](https://img.shields.io/badge/Git-Advanced-yellow)
-![GitHub](https://img.shields.io/badge/GitHub-Advanced-yellow) 
+![Git](https://img.shields.io/badge/Git-Advanced-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Advanced-blue) 
 
 
 
