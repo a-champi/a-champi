@@ -34,15 +34,15 @@ arbeite gerade  bei DCI (Digital Career Institut).
 ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-blue)
 ![Nodejs](https://img.shields.io/badge/Node.Js-Advanced-blue)
 ![React](https://img.shields.io/badge/React-Advanced-blue)
-![Python](https://img.shields.io/badge/Python-Beginner-8A2BE2)
 ![HTML5](https://img.shields.io/badge/HTML5-Advanced-blue)
-![CSS3](https://img.shields.io/badge/CCS3-Advanced-yellow)
+![CSS3](https://img.shields.io/badge/CCS3-Advanced-blue)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-blue)
 ![Tailwinds](https://img.shields.io/badge/Tailwinds-Advanced-blue)
+![Git](https://img.shields.io/badge/Git-Advanced-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Advanced-blue)
 ![Sass/Scss](https://img.shields.io/badge/Sass%2Fscss-Intermedia-8A2BE2)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermedia-8A2BE2)
-![Git](https://img.shields.io/badge/Git-Advanced-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Advanced-blue) 
+![Python](https://img.shields.io/badge/Python-Beginner-8A2BE2)
 
 
 
