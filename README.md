@@ -19,6 +19,7 @@ arbeite gerade  bei DCI (Digital Career Institut).
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" /> -->
 
+<!--
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -28,8 +29,22 @@ arbeite gerade  bei DCI (Digital Career Institut).
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Sass](https://img.shields.io/badge/Sass-intermedia-pink)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
+-->
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+![Nodejs](https://img.shields.io/badge/Node.Js-Advanced-yellow)
+![React](https://img.shields.io/badge/React-Advanced-yellow)
+![Python](https://img.shields.io/badge/Python-Beginner-8A2BE2)
+![HTML5](https://img.shields.io/badge/HTML5-Advanced-yellow)
+![CSS3](https://img.shields.io/badge/CCS3-Advanced-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-yellow)
+![Tailwinds](https://img.shields.io/badge/Tailwinds-Advanced-yellow)
+![Sass/Scss](https://img.shields.io/badge/Sass%2Fscss-Intermedia-8A2BE2)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermedia-8A2BE2)
+![Git](https://img.shields.io/badge/Git-Advanced-yellow)
+![GitHub](https://img.shields.io/badge/GitHub-Advanced-yellow) 
+
+
 
 
 <br><br>
