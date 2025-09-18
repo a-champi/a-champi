@@ -50,7 +50,7 @@ arbeite gerade  bei DCI (Digital Career Institut).
 <br><br>
 
 ### __meine Referenz:__ 
-<br>
+< !--<br>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-champi&theme=dark&show_icons=true)
@@ -62,7 +62,7 @@ arbeite gerade  bei DCI (Digital Career Institut).
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=a-champi&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-champi&hide=TeX&layout=compact)
 
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
